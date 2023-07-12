@@ -1,0 +1,8 @@
+D:\C# coding\Library\Library\bin\Debug\Library.exe.config
+D:\C# coding\Library\Library\bin\Debug\Library.exe
+D:\C# coding\Library\Library\bin\Debug\Library.pdb
+D:\C# coding\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\C# coding\Library\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+D:\C# coding\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\C# coding\Library\Library\obj\Debug\Library.exe
+D:\C# coding\Library\Library\obj\Debug\Library.pdb
