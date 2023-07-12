@@ -191,7 +191,7 @@ namespace Library
                 Console.WriteLine("Списък с всички налични книги:");
                 for (int i = 0; i < availiblyBooks.Count; i++)
                 {
-                    Console.WriteLine($"{i+1}) {availiblyBooks[i].Title} - {availiblyBooks[i].Author}, Издадена: {availiblyBooks[i].Year} година, Цена: {availiblyBooks[i].Price} лв.");
+                    Console.WriteLine($"{i+1}) {availiblyBooks[i].Isbn} {availiblyBooks[i].Title} - {availiblyBooks[i].Author}, Издадена: {availiblyBooks[i].Year} година, Цена: {availiblyBooks[i].Price} лв.");
                 }
 
             }
@@ -209,7 +209,7 @@ namespace Library
                 Console.WriteLine("Списък с всички заети книги:");
                 for (int i = 0; i < borrowedBooks.Count; i++)
                 {
-                    Console.WriteLine($"{i + 1}) {borrowedBooks[i].Title} - {borrowedBooks[i].Author}, Издадена: {borrowedBooks[i].Year} година, Цена: {borrowedBooks[i].Price} лв., Наемател: {borrowedBooks[i].Borrower}");
+                    Console.WriteLine($"{i + 1}) {borrowedBooks[i].Isbn} {borrowedBooks[i].Title} - {borrowedBooks[i].Author}, Издадена: {borrowedBooks[i].Year} година, Цена: {borrowedBooks[i].Price} лв., Наемател: {borrowedBooks[i].Borrower}");
                 }
 
             }

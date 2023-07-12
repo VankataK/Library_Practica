@@ -11,7 +11,7 @@ namespace Library
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Library library = new Library();
             library.Menu();
         }
